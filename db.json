@@ -1,5 +1,5 @@
 {
-produk:
+"produk":
 [
 {"title":"Broccoli", "harga":75000, "image":"img/broccoli.png"},
 {"title":"Spinach", "harga":45000, "image":"img/spinach.png"},
