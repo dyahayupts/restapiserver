@@ -1,0 +1,13 @@
+{
+produk:
+[
+{"title":"Broccoli", "harga":75000, "image":"img/broccoli.png"},
+{"title":"Spinach", "harga":45000, "image":"img/spinach.png"},
+{"title":"Orange", "harga":85000, "image":"img/orange.png"},
+{"title":"Tomato", "harga":39000, "image":"img/tomato.png"},
+{"title":"Onion", "harga":90000, "image":"img/onion.png"},
+{"title":"Cabbage", "harga":67000, "image":"img/cabbage.png"},
+{"title":"Bean", "harga":102000, "image":"img/beans.png"},
+{"title":"Radish", "harga":88000, "image":"img/radish.png"}
+]
+}
